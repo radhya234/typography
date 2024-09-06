@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Grids</title>
+<style>
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+• text1 {
+color: red;
+text-decoration: overline;
+}
+. text2 {
+color: pink;
+text-decoration: line-through;
+}
+• text3 {
+color: rgb(70, 98, 120);
+text-decoration: underline;
+}
+• text4 {
+color: rgba(0, 0, 0, 0.4);
+text-decoration: underline overline;
+}
+.p1 {
+font-family: "Times New Roman", Times, serif;
+}
+. p2 {
+font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+<body>
+    <body>
+    <h1>Typography with Flowers</h1>
+    <div class="text1">Flowers are an essential part of our lives. They are responsible for bringing happiness in our lives and making our surrounding environment a prettier place to live in.</div>
+    <div class="text2">The relationship between humans and flowers has always been special. Symbol Of Love | Flowers add liveliness and happiness to our surroundings and make them more beautiful. </div>
+    <p class="p1">Flowers are symbolic of beauty, love and tranquillity. They form the soul of a garden and convey the message of nature to man</p>
+    <p class="p2">Most flowers have four main parts: sepals, petals, stamens, and carpels. The stamens are the male part whereas the carpels are the female part of the flower. </p>
+</body>
+</body>
+<html>
